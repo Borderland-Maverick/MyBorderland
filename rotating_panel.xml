@@ -3,23 +3,30 @@
 
   <panel>
     <number>1</number>
-    <image>https://sample.com/image1.jpg</image>
-    <url>https://sample.com/donate</url>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MyBo-BLP01.jpg?raw=true</image>
+    <url>https://theborderlandpress.com/</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
     <number>2</number>
-    <image>https://sample.com/image2.jpg</image>
-    <url>https://sample.com/news</url>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MyBo-MauiWildfire.jpg?raw=true</image>
+    <url>https://www.redcross.org/donate/donation.html/</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
     <number>3</number>
-    <image>https://sample.com/image3.jpg</image>
-    <url>https://sample.com/events</url>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MyBo-BLP02.jpg?raw=true</image>
+    <url>https://theborderlandpress.com/</url>
     <redirect>n</redirect>
   </panel>
 
+    <panel>
+    <number>4</number>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MyBo-MauiWildfire02.jpg?raw=true</image>
+    <url>https://www.redcross.org/donate/donation.html/</url>
+    <redirect>n</redirect>
+  </panel>
+  
 </rotator>
