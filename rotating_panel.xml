@@ -22,10 +22,17 @@
     <redirect>n</redirect>
   </panel>
 
-    <panel>
+  <panel>
     <number>4</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MyBo-MauiWildfire02.jpg?raw=true</image>
     <url>https://www.redcross.org/donate/donation.html/</url>
+    <redirect>n</redirect>
+  </panel>
+
+  <panel>
+    <number>5</number>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/SportsBump.jpg?raw=true</image>
+    <url>https://www.myborderland.com/</url>
     <redirect>n</redirect>
   </panel>
   
