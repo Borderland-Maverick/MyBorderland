@@ -1,46 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rotator>
 
-  <panel>
+ <panel>
     <number>1</number>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/SportsBump-KNDK.png?raw=true</image>
+    <url>https://www.myborderland.com/</url>
+    <redirect>n</redirect>
+  </panel>
+  
+ <panel>
+    <number>2</number>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/SportsBump-MyFM.png?raw=true</image>
+    <url>https://www.myborderland.com/</url>
+    <redirect>n</redirect>
+  </panel>
+
+  <panel>
+    <number>3</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MyBo-BLP01.jpg?raw=true</image>
     <url>https://theborderlandpress.com/</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
-    <number>2</number>
+    <number>4</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MyBo-MauiWildfire.jpg?raw=true</image>
     <url>https://www.redcross.org/donate/donation.html/</url>
     <redirect>n</redirect>
   </panel>
-  
-  <panel>
-    <number>3</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MyBo-BLP02.jpg?raw=true</image>
-    <url>https://theborderlandpress.com/</url>
-    <redirect>n</redirect>
-  </panel>
-
-  <panel>
-    <number>4</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MyBo-MauiWildfire02.jpg?raw=true</image>
-    <url>https://www.redcross.org/donate/donation.html/</url>
-    <redirect>n</redirect>
-  </panel>
-
-  <panel>
-    <number>5</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/SportsBump-KNDK.png?raw=true</image>
-    <url>https://www.myborderland.com/</url>
-    <redirect>n</redirect>
-  </panel>
-  
-  <panel>
-    <number>6</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/SportsBump-MyFM.png?raw=true</image>
-    <url>https://www.myborderland.com/</url>
-    <redirect>n</redirect>
-  </panel>
-  
+    
 </rotator>
