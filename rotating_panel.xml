@@ -14,5 +14,11 @@
     <url>https://www.myborderland.com</url>
     <redirect>n</redirect>
   </panel>
-    
+
+ <panel>
+    <number>2</number>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/Backtoschool-0823.jpg</image>
+    <url>https://https://www.myborderland.com/b2s-bucks.html</url>
+    <redirect>n</redirect>
+  </panel> 
 </rotator>
