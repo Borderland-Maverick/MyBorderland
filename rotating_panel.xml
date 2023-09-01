@@ -10,27 +10,20 @@
   
   <panel>
     <number>2</number>
-    <image>https://raw.githubusercontent.com/Borderland-Maverick/MyBorderland/292f64ec0f021e6e33fc2c67c663ebc2aa5cf30b/vb-083123.jpg</image>
-    <url>https://www.myborderland.com</url>
-    <redirect>n</redirect>
-  </panel>
-
-  <panel>
-    <number>3</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/KNDKFOOTBALL0828.jpeg?raw=true</image>
     <url>https://https://www.myborderland.com</url>
     <redirect>n</redirect>
   </panel> 
   
  <panel>
-    <number>4</number>
+    <number>3</number>
     <image>https://raw.githubusercontent.com/Borderland-Maverick/MyBorderland/main/Backtoschool-0823.jpg</image>
     <url>https://https://www.myborderland.com/b2s-bucks.html</url>
     <redirect>n</redirect>
   </panel> 
 
   <panel>
-    <number>5</number>
+    <number>4</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/95.7FOOTBALL0828.jpg?raw=true</image>
     <url>https://https://www.myborderland.com</url>
     <redirect>n</redirect>
