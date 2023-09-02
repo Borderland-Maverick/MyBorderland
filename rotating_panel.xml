@@ -8,24 +8,11 @@
     <redirect>n</redirect>
   </panel>
   
-  <panel>
-    <number>2</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/KNDKFOOTBALL0828.jpeg?raw=true</image>
-    <url>https://https://www.myborderland.com</url>
-    <redirect>n</redirect>
-  </panel> 
-  
  <panel>
-    <number>3</number>
+    <number>2</number>
     <image>https://raw.githubusercontent.com/Borderland-Maverick/MyBorderland/main/Backtoschool-0823.jpg</image>
     <url>https://https://www.myborderland.com/b2s-bucks.html</url>
     <redirect>n</redirect>
   </panel> 
 
-  <panel>
-    <number>4</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/95.7FOOTBALL0828.jpg?raw=true</image>
-    <url>https://https://www.myborderland.com</url>
-    <redirect>n</redirect>
-  </panel> 
 </rotator>
