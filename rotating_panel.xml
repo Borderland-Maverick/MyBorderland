@@ -3,13 +3,20 @@
 
   <panel>
     <number>1</number>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/Football0908-1.jpg?raw=true</image>
+    <url>https://myborderland.com/</url>
+    <redirect>n</redirect>
+  </panel>
+
+  <panel>
+    <number>2</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MyBo-BLP01.jpg?raw=true</image>
     <url>https://theborderlandpress.com/</url>
     <redirect>n</redirect>
   </panel>
   
  <panel>
-    <number>2</number>
+    <number>3</number>
     <image>https://raw.githubusercontent.com/Borderland-Maverick/MyBorderland/main/Backtoschool-0823.jpg</image>
     <url>https://https://www.myborderland.com/b2s-bucks.html</url>
     <redirect>n</redirect>
