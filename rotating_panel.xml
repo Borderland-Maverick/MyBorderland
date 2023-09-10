@@ -3,6 +3,13 @@
 
   <panel>
     <number>1</number>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/TailgateTacklebox-rotator.png?raw=true</image>
+    <url>https://www.myborderland.com/tailgatetacklebox.html</url>
+    <redirect>n</redirect>
+  </panel>
+
+  <panel>
+    <number>2</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MyBo-BLP01.jpg?raw=true</image>
     <url>https://theborderlandpress.com/</url>
     <redirect>n</redirect>
