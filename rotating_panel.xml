@@ -1,32 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rotator>
 
-  <panel>
-    <number>1</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/Fball-KNDK-0915.png?raw=true</image>
-    <url>https://www.myborderland.com</url>
-    <redirect>n</redirect>
-  </panel>
- 
-  <panel>
+<panel>
     <number>2</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/46FA5897-F8D7-447D-B06E-78E309AC9853.PNG?raw=true</image>
     <url>https://www.myborderland.com/tailgatetacklebox.html</url>
     <redirect>n</redirect>
-  </panel>
+</panel>
 
-  <panel>
-    <number>3</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/Fball-KLME-0915.jpg?raw=true</image>
-    <url>https://www.myborderland.com</url>
-    <redirect>n</redirect>
-  </panel>
-
-  <panel>
+<panel>
     <number>2</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MyBo-BLP01.jpg?raw=true</image>
     <url>https://theborderlandpress.com/</url>
     <redirect>n</redirect>
-  </panel>
+ </panel>
 
 </rotator>
