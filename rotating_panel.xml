@@ -8,4 +8,25 @@
     <redirect>n</redirect>
  </panel>
 
+    <panel>
+    <number>2</number>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/27B7F992-BB78-4FAA-A3D9-199D1E9C2A5D.jpeg?raw=true</image>
+    <url>https://www.myborderland.com/contests.html#fallcleanup</url>
+    <redirect>n</redirect>
+ </panel>
+
+    <panel>
+    <number>3</number>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/84D2E199-A883-4ECE-B286-EBE300EE396F.jpg?raw=true</image>
+    <url>https://theborderlandpress.com/</url>
+    <redirect>n</redirect>
+ </panel>
+
+   <panel>
+    <number>4</number>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/7842069E-E181-42FA-814E-5BE4596006D7.jpeg?raw=true</image>
+    <url>https://theborderlandpress.com/</url>
+    <redirect>n</redirect>
+ </panel> 
+
 </rotator>
