@@ -10,24 +10,9 @@
 
 <panel>
     <number>2</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/TacoTreasury-slider.jpeg?raw=true</image>
-    <url>https://www.myborderland.com/itstacotime.html</url>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/boooooost-slider.png?raw=true</image>
+    <url>http://www.myborderland.com/contests.html#boooost</url>
     <redirect>n</redirect>
  </panel>
-
-<panel>
-    <number>3</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/FB1006-KLME.jpg?raw=true</image>
-    <url>https://www.myborderland.com/</url>
-    <redirect>n</redirect>
-</panel>
-
-<panel>
-    <number>4</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/FB1006-KNDK.jpg?raw=true</image>
-    <url>https://www.myborderland.com/</url>
-    <redirect>n</redirect>
-</panel>
-
 
 </rotator>
