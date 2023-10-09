@@ -15,4 +15,10 @@
     <redirect>n</redirect>
  </panel>
 
+    <panel>
+    <number>3</number>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/F4D8F955-AD1B-402B-AF65-A637A6255373.png?raw=true</image>
+    <url>https://theborderlandpress.com/</url>
+    <redirect>n</redirect>
+ </panel>
 </rotator>
