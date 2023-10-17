@@ -3,16 +3,30 @@
 
 <panel>
     <number>1</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MyBo-BLP01.jpg?raw=true</image>
-    <url>https://theborderlandpress.com/</url>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/FB-1021-MYFM.jpg?raw=true</image>
+    <url>http://www.myborderland.com</url>
     <redirect>n</redirect>
 </panel>
 
 <panel>
     <number>2</number>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/FB-1021-KNDK.jpg?raw=true</image>
+    <url>http://www.myborderland.com</url>
+    <redirect>n</redirect>
+ </panel>
+
+<panel>
+    <number>3</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/boooooost-slider.png?raw=true</image>
     <url>http://www.myborderland.com/contests.html#boooost</url>
     <redirect>n</redirect>
- </panel>
+</panel>
+    
+<panel>
+    <number>4</number>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MyBo-BLP01.jpg?raw=true</image>
+    <url>https://theborderlandpress.com/</url>
+    <redirect>n</redirect>
+</panel>
 
 </rotator>
