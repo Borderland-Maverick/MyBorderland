@@ -1,36 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rotator>
-
+ 
 <panel>
     <number>1</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/HKY-JETS-COOP.jpeg?raw=true</image>
-    <url>https://www.myborderland.com/coopjetswatchparty.html</url>
-    <redirect>n</redirect>
-</panel>
-
-<panel>
-    <number>2</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/HKY-UND.jpg?raw=true</image>
-    <url>https://www.myborderland.com/ticketwindow.html</url>
-    <redirect>n</redirect>
-</panel>
-
-<panel>
-    <number>3</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/FB-1028-KNDK.jpg?raw=true</image>
-    <url>http://www.myborderland.com/</url>
-    <redirect>n</redirect>
-</panel>
-
-<panel>
-    <number>4</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/FB-1028-KLME.jpg?raw=true</image>
-    <url>http://www.myborderland.com/</url>
-    <redirect>n</redirect>
-</panel>
-    
-<panel>
-    <number>5</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MyBo-BLP01.jpg?raw=true</image>
     <url>https://theborderlandpress.com/</url>
     <redirect>n</redirect>
