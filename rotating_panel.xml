@@ -3,20 +3,6 @@
  
 <panel>
     <number>1</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/FBALL-1104-KLME.jpg?raw=true</image>
-    <url>https://WWW.MYBORDERLAND.COM</url>
-    <redirect>n</redirect>
-</panel>
-
- <panel>
-    <number>2</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/FBALL-1104-KNDK.jpg?raw=true</image>
-    <url>https://WWW.MYBORDERLAND.COM</url>
-    <redirect>n</redirect>
-</panel>
- 
- <panel>
-    <number>3</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MyBo-BLP01.jpg?raw=true</image>
     <url>https://theborderlandpress.com/</url>
     <redirect>n</redirect>
