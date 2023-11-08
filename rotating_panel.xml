@@ -8,4 +8,9 @@
     <redirect>n</redirect>
 </panel>
 
+ <panel>
+    <number>2</number>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/9manfootball1107.jpg?raw=true</url>
+    <redirect>n</redirect>
+</panel>
 </rotator>
