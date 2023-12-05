@@ -3,15 +3,23 @@
  
 <panel>
     <number>1</number>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/HolidayHelpers2023-slider.png?raw=true</image>
+    <url>https://www.myborderland.com/holidayhelpers.html</url>
+    <redirect>n</redirect>
+</panel>
+ 
+<panel>
+    <number>2</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MyBo-BLP01.jpg?raw=true</image>
     <url>https://theborderlandpress.com/</url>
     <redirect>n</redirect>
 </panel>
 
- <panel>
-    <number>2</number>
+<panel>
+    <number>3</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/GAMEROOMCONTEST.png?raw=true</image>
     <url>https://www.myborderland.com/dify-game-room.html</url>
     <redirect>n</redirect>
 </panel>
+
 </rotator>
