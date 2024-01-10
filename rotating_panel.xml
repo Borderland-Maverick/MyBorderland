@@ -3,8 +3,8 @@
  
 <panel>
     <number>1</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/HolidayHelpers2023-slider.png?raw=true</image>
-    <url>https://www.myborderland.com/holidayhelpers.html</url>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/GroceryGrant_Slider.png?raw=true/image>
+    <url>https://www.myborderland.com/grocerygrants.html</url>
     <redirect>n</redirect>
 </panel>
  
