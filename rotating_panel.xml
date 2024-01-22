@@ -3,8 +3,8 @@
  
 <panel>
     <number>1</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/GroceryGrant_Slider.png?raw=true</image>
-    <url>https://www.myborderland.com/grocerygrants.html</url>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/DandB_01222024.jpg?raw=true</image>
+    <url>https://www.dandbmotors.com/</url>
     <redirect>n</redirect>
 </panel>
  
@@ -12,13 +12,6 @@
     <number>2</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MyBo-BLP01.jpg?raw=true</image>
     <url>https://theborderlandpress.com/</url>
-    <redirect>n</redirect>
-</panel>
-
-<panel>
-    <number>3</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/GAMEROOMCONTEST.png?raw=true</image>
-    <url>https://www.myborderland.com/dify-game-room.html</url>
     <redirect>n</redirect>
 </panel>
 
