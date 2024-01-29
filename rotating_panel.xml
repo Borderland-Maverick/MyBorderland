@@ -3,20 +3,13 @@
  
 <panel>
     <number>1</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/dandb_012924.jpg?raw=true</image>
-    <url>https://www.dandbmotors.com/</url>
-    <redirect>n</redirect>
-</panel>
-
-<panel>
-    <number>2</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/StanleyDay_Slider.jpg?raw=true</image>
     <url>http://www.myborderland.com/contests.html#stanley</url>
     <redirect>n</redirect>
 </panel> 
 
  <panel>
-    <number>3</number>
+    <number>2</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MyBo-BLP01.jpg?raw=true</image>
     <url>https://theborderlandpress.com/</url>
     <redirect>n</redirect>
