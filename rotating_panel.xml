@@ -3,17 +3,24 @@
 
 <panel>
     <number>1</number>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MonthofYou-Slider.jpg?raw=true</image>
+    <url>https://www.myborderland.com/contests.html#monthofu</url>
+    <redirect>n</redirect>
+</panel> 
+
+<panel>
+    <number>2</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/dandb130242.png?raw=true</image>
     <url>https://www.dandbmotors.com</url>
     <redirect>n</redirect>
 </panel> 
 
 <panel>
-    <number>2</number>
+    <number>3</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MyBo-BLP01.jpg?raw=true</image>
     <url>https://theborderlandpress.com/</url>
     <redirect>n</redirect>
 </panel>
-
+  
 </rotator>
 
