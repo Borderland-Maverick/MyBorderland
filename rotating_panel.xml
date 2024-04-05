@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rotator>
-
-<panel>
-    <number>1</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/taxbonus-slider.jpg?raw=true</image>
-    <url>http://www.myborderland.com/contests.html#taxbonus</url>
-    <redirect>n</redirect>
-</panel> 
+<rotator> 
     
 <panel>
     <number>2</number>
