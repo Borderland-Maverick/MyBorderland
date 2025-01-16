@@ -3,20 +3,27 @@
     
 <panel>
     <number>1</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/DANDB-0110.png?raw=true</image>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/DANDB-0117.png?raw=true</image>
     <url>https://www.dandbmotors.com</url>
     <redirect>n</redirect>
 </panel> 
 
 <panel>
     <number>2</number>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/REDCROSS-LA.png?raw=true</image>
+    <url>https://www.redcross.org/donate/donation.html/</url>
+    <redirect>n</redirect>
+</panel>
+
+<panel>
+    <number>3</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MyBo-BLP01.jpg?raw=true</image>
     <url>https://theborderlandpress.com/</url>
     <redirect>n</redirect>
 </panel>
 
 <panel>
-    <number>3</number>
+    <number>4</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/TW-SLIDER-2024.png?raw=true</image>
     <url>https://www.myborderland.com/ticketwindow.html</url>
     <redirect>n</redirect>
