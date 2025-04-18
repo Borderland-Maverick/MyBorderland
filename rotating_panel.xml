@@ -2,12 +2,6 @@
 <rotator> 
     
 <panel>
-    <number>1</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/PRC2025.png?raw=true</image>
-    <url>https://www.tax.nd.gov/prc</url>
-    <redirect>n</redirect>
-</panel> 
-<panel>
     <number>2</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/DandB 041825.png?raw=true</image>
     <url>https://www.dandbmotors.com</url>
