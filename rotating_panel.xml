@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rotator> 
-    
-<panel>
-    <number>2</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/Water main break 072525a.png?raw=true</image>
-    <url>https://www.facebook.com/cityoflangdon</url>
-    <redirect>n</redirect>
-</panel> 
-    
+     
 <panel>
     <number>2</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/DandB SROW 072525 for App.png?raw=true</image>
