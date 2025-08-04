@@ -9,6 +9,13 @@
 </panel> 
 
 <panel>
+    <number>2</number>
+    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/DandB SROW 080125 for App.png?raw=true</image>
+    <url>https://www.dandbmotors.com</url>
+    <redirect>n</redirect>
+</panel> 
+     
+<panel>
     <number>3</number>
     <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/MyBo-BLP01.jpg?raw=true</image>
     <url>https://theborderlandpress.com/</url>
@@ -23,4 +30,5 @@
 </panel> 
     
 </rotator>
+
 
