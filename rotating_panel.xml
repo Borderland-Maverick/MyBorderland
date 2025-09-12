@@ -7,13 +7,6 @@
     <url>https://www.dandbmotors.com</url>
     <redirect>n</redirect>
 </panel> 
-
-<panel>
-    <number>2</number>
-    <image>https://github.com/Borderland-Maverick/MyBorderland/blob/main/Hotspot Hookup 2025b.png?raw=true</image>
-    <url>https://www.myborderland.com/hotspot2025.html</url>
-    <redirect>n</redirect>
-</panel> 
      
 <panel>
     <number>3</number>
@@ -30,6 +23,7 @@
 </panel> 
     
 </rotator>
+
 
 
 
